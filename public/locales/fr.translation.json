@@ -1,0 +1,171 @@
+{
+  "supported_lng": {
+    "en": "English",
+    "fr": "Français"
+  },
+  "app_name": "Portfolio",
+  "document_title": "Portfolio — Varnel Joseph",
+
+  "navbar": {
+    "link": {
+      "resume": "Mon Resume",
+      "linkedin": "Mon Linkedin"
+    },
+    "about": "A propos",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "achievements": "Réalisations",
+    "contact": "Contact"
+  },
+  "main": {
+    "message": "J'aime les défis et dynamiser les produits grâce à la technologie",
+    "link": {
+      "resume": "Mon CV",
+      "linkedin": "Mon Linkedin"
+    },
+    "more-about-me": {
+      "label": "En savoir plus sur moi",
+      "txt": "En savoir plus"
+    }
+  },
+
+  "icon": {
+    "label": "Curriculum vitæ"
+  },
+
+  "about": {
+    "heading": "À propos de moi",
+    "message": "Je m'appelle Varnel Joseph. Je crois en l'excellence. J'ai toujours consacré, mes talents et mes capacités créatives pour assurer la réussite de toute organisation pour laquelle j'ai travaillé. Des médias sociaux aux entreprises de déménagement, des startups aux enterprise du Nasdaq 100. J'aime les défis et je recherche un poste où je pourrai continuer à évoluer avec la même éthique de travail.",
+    "resume": {
+      "txt": "Curriculum vitæ"
+    }
+  },
+
+  "projects": {
+    "heading": "Travail, études et projets parallèles",
+    "visit-website": "Visiter le site Web",
+    "technologies": {
+      "label": "Technologies:"
+    },
+    "techno": {
+      "in-house": {
+        "multimedias-transcoder": "File d'attente de transcodage multimédia",
+        "db-orm": "Multi BDD/ORM personnalisé",
+        "telemetry-observability": "Télémétrie/Observabilité personnalisée",
+        "queue-system": "Système de file d'attente personnalisé",
+        "payment": "Traitement de paiement personnalisé",
+        "programmatic-cart": "Panier/Commandes programmatiques",
+        "shipping": "Colis/Livraison"
+      },
+      "angular-js": "AngularJS",
+      "ansible": "Ansible",
+      "apache-couchdb": "Apache CouchDB",
+      "aws": "AWS",
+      "aws-cloud": "AWS Cloud",
+      "capistrano": "Capistrano",
+      "carbon-graphite": "Carbon/Graphite",
+      "consul": "Consul",
+      "d3-js": "D3.js",
+      "docker": "Docker",
+      "docker-microservices": "Docker",
+      "elasticsearch": "Elasticsearch",
+      "html-5": "HTML5",
+      "grafana": "Grafana",
+      "geocoding": "Géocodage",
+      "go": "Go",
+      "inter-ana": "inter|ana (scuba.io)",
+      "node-js": "Node.js",
+      "ffmpeg": "FFmpeg",
+      "jenkins": "Jenkins",
+      "jasmine": "Jasmine",
+      "javascript": "Javascript",
+      "no-sql": "NoSql",
+      "microservices": "Microservices",
+      "mysql": "MySQL",
+      "multi-cloud-saas": "Saas Multi-cloud",
+      "paypal": "Paypal",
+      "packer": "Packer",
+      "postgresql": "PostgreSQL",
+      "python": "Python",
+      "rspec": "RSpec",
+      "ruby-on-rails": "Ruby on Rails",
+      "single-page-app":"Application Web Monopage",
+      "stripe": "Stripe",
+      "terraform": "Terraform",
+      "vue-js": "Vue.js"
+
+
+    },
+    "cityfew": {
+      "description": "Club d'adhésion en e-commerce programmatique avant-vente et après-vente. Opportunités de vente uniques ! Chaque produit est accompagné de son propre ensemble de règles. Chaque \"règle\" de vente est personnalisée et utilisée pour offrir une expérience riche et exclusive aux acheteurs et vendeurs."
+    },
+    "challengeprize": {
+      "description": "Plateforme simple et facile offrant des récompenses et de l'argent. Créez, organisez, gérez des concours, des compétitions, des défis, avec ou sans frais d'admission, en public ou en privé. Les participants peuvent entrer en tant que challenger, arbitre ou observateur pour s'amuser et pour des récompenses en argent."
+    },
+    "nativetouch": {
+      "description": "Guider les plus grandes marques du monde à travers l'écosystème complexe de la publicité mobile. L'équipe de Native Touch est composée d'experts passionnés en technologie et en publicité qui sont fiers de faire des choses que les autres ne peuvent pas faire. Grâce aux possibilités illimitées de la publicité mobile."
+    },
+    "smallmoves-vancouver": {
+      "description": "Le gérant avait besoin d'une solution pour gérer toutes les parties d'un déménagement, du prospect au connaissement en passant par les paiements, avec un suivi en temps réel de toutes les étapes du déménagement. J'ai proposé de créer une application mobile HTML5. Ils traitent maintenant les déménagements depuis un Ipad, un Iphone ou tout autre appareil mobile prenant en charge HTML5."
+    }
+  },
+
+  "skills": {
+    "heading": "Compétences",
+    "hard": {
+      "web-architecture": "Architecture Web",
+      "html-css": "HTML/CSS",
+      "data-structures": "Structures de Données",
+      "python": "Python",
+      "javascript": "Javascript/Node.js",
+      "java": "Java",
+      "rust": "Rust",
+      "data-science": "Science des Données",
+      "data-pipeline": "Pipeline de Données",
+      "sql-nosql": "SQL/NoSql",
+      "ui-ux-design": "Conception UI/UX",
+      "vue-js": "Vue.js",
+      "ruby-on-rails": "Ruby on Rails",
+      "container": "Conteneurs",
+      "ci-cd": "CI/CD",
+      "cloud-computing": "Infonuage"
+    },
+    "soft": {
+      "goal-oriented": "Orienté vers un objectif",
+      "collaboration": "Collaboration",
+      "positivity": "Positivité",
+      "adaptability": "Adaptabilité",
+      "problem-solving": "Résolution de problèmes",
+      "empathy": "Empathie",
+      "organization": "Organisation",
+      "creativity": "Créativité"
+    }
+  },
+
+  "achievements": {
+    "heading": "Décerner",
+    "visit-website": "Visiter le site Web",
+    "google": {
+      "label": "Certificat en gestion de projet Google",
+      "date": "Septembre 2022"
+    },
+    "siia": {
+      "label": "Best Collaboration / Social Networking Solution",
+      "date": "SIIA CODIE 2012",
+      "external": {
+        "label": "Gust"
+      }
+    }
+  },
+
+  "getintouch": {
+    "heading": "Prendre contact",
+    "message": "Je suis actuellement à la recherche d'opportunités liées au développement de logiciels ou à la gestion de projet à temps plein ! Si vous connaissez des postes disponibles, si vous avez des questions ou si vous souhaitez simplement dire bonjour, n'hésitez pas à envoyer un e-mail "
+  },
+
+  "footer": {
+    "open-source-using": "Code open source à l'aide de ",
+    "feel-free-to": "N'hésitez pas à ",
+    "fork-make-yours": "dupliquer et faites le vôtre"
+  }
+}

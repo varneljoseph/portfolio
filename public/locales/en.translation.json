@@ -1,0 +1,171 @@
+{
+  "supported_lng": {
+    "en": "English",
+    "fr": "Français"
+  },
+  "app_name": "Portfolio",
+  "document_title": "Portfolio — Varnel Joseph",
+
+  "navbar": {
+    "link": {
+      "resume": "My Resume",
+      "linkedin": "My Linkedin"
+    },
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "achievements": "Achievements",
+    "contact": "Contact"
+  },
+  "main": {
+    "message": "I like challenges and empowering products with technology",
+    "link": {
+      "resume": "My Resume",
+      "linkedin": "My Linkedin"
+    },
+    "more-about-me": {
+      "label": "Learn more about me",
+      "txt": "More about me"
+    }
+  },
+
+  "icon": {
+    "label": "Resume/CV"
+  },
+
+  "about": {
+    "heading": "About me",
+    "message": "My name is Varnel Joseph. I believe in excellence. I have always dedicated myself, my talents and my creative abilities to assure the successful accomplishment of any organization I have worked for. From social media to moving companies, from startup to Nasdaq 100 Enterprise. I like challenges and I am looking for a position where I can continue to grow with the same work ethics.",
+    "resume": {
+      "txt": "Resume"
+    }
+  },
+
+  "projects": {
+    "heading": "Work, Academic & Side Projects",
+    "visit-website": "Visit Website",
+    "technologies": {
+      "label": "Technologies:"
+    },
+    "techno": {
+      "in-house": {
+        "multimedias-transcoder": "Multimedias Transcoding Queue",
+        "db-orm": "Custom Multi DB/ORM",
+        "telemetry-observability": "Custom Telemetry/Observability",
+        "queue-system": "Custom Queue System",
+        "payment": "Custom Payment Processing",
+        "programmatic-cart": "Programmatic Cart/Orders",
+        "shipping": "Package/Shipping"
+      },
+      "angular-js": "AngularJS",
+      "ansible": "Ansible",
+      "apache-couchdb": "Apache CouchDB",
+      "aws": "AWS",
+      "aws-cloud": "AWS Cloud",
+      "capistrano": "Capistrano",
+      "carbon-graphite": "Carbon/Graphite",
+      "consul": "Consul",
+      "d3-js": "D3.js",
+      "docker": "Docker",
+      "docker-microservices": "Docker",
+      "elasticsearch": "Elasticsearch",
+      "html-5": "HTML5",
+      "grafana": "Grafana",
+      "geocoding": "Geocoding",
+      "go": "Go",
+      "inter-ana": "inter|ana (scuba.io)",
+      "node-js": "Node.js",
+      "ffmpeg": "FFmpeg",
+      "jenkins": "Jenkins",
+      "jasmine": "Jasmine",
+      "javascript": "Javascript",
+      "no-sql": "NoSql",
+      "microservices": "Microservices",
+      "mysql": "MySQL",
+      "multi-cloud-saas": "Multi-cloud Saas",
+      "paypal": "Paypal",
+      "packer": "Packer",
+      "postgresql": "PostgreSQL",
+      "python": "Python",
+      "rspec": "RSpec",
+      "ruby-on-rails": "Ruby on Rails",
+      "single-page-app":"Single Page Application",
+      "stripe": "Stripe",
+      "terraform": "Terraform",
+      "vue-js": "Vue.js"
+
+
+    },
+    "cityfew": {
+      "description": "Pre-sales and Post-sales programmatic e-commerce membership club. Unique sales opportunities! Each product come with it's own set of rules. Custom sales \"rule\" are used to create a rich and exclusive experience for buyers and sellers."
+    },
+    "challengeprize": {
+      "description": "Simple, Easy Board with Money, Rewards Prizes. Create, organize, manage, contests, competitions, challenges, with or without admission fee, in public or privately. Participants can enter either as challenger, referee, or observer for fun and for money rewards."
+    },
+    "nativetouch": {
+      "description": "Guiding the world’s top brands through the complex mobile advertising ecosystem. The Native Touch team is comprised of passionate technology and advertising experts who pride themselves in doing things others can’t. Thanks to the limitless opportunities of mobile advertising"
+    },
+    "smallmoves-vancouver": {
+      "description": "The owner needed a solution to manage all parts of a move, from lead to bill of lading to payments with a real time tracking of any steps of the move. I propose to build an HTML5 mobile application. They now process moves from an Ipad, Iphone or any mobile device that supports HTML5."
+    }
+  },
+
+  "skills": {
+    "heading": "Skills",
+    "hard": {
+      "web-architecture": "Web Architecture",
+      "html-css": "HTML/CSS",
+      "data-structures": "Data Structures",
+      "python": "Python",
+      "javascript": "Javascript/Node.js",
+      "java": "Java",
+      "rust": "Rust",
+      "data-science": "Data Science",
+      "data-pipeline": "Data Pipeline",
+      "sql-nosql": "SQL/NoSql",
+      "ui-ux-design": "UI/UX Design",
+      "vue-js": "Vue.js",
+      "ruby-on-rails": "Ruby on Rails",
+      "container": "Containers",
+      "ci-cd": "CI/CD",
+      "cloud-computing": "Cloud Computing"
+    },
+    "soft": {
+      "goal-oriented": "Goal-Oriented",
+      "collaboration": "Collaboration",
+      "positivity": "Positivity",
+      "adaptability": "Adaptability",
+      "problem-solving": "Problem Solving",
+      "empathy": "Empathy",
+      "organization": "Organization",
+      "creativity": "Creativity"
+    }
+  },
+
+  "achievements": {
+    "heading": "Achievements",
+    "visit-website": "Visit Website",
+    "google": {
+      "label": "Google Project Management Certificate",
+      "date": "September 2022"
+    },
+    "siia": {
+      "label": "Best Collaboration / Social Networking Solution",
+      "date": "SIIA CODIE 2012",
+      "external": {
+        "label": "Gust"
+      }
+    }
+  },
+
+  "getintouch": {
+    "heading": "Get In Touch",
+    "message": "I'm currently looking for full-time Software Developer or Project Management related opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at "
+  },
+
+  "footer": {
+    "open-source-using": "Open source code using",
+    "feel-free-to": "Feel free to",
+    "fork-make-yours": "fork and make your own"
+  }
+}
